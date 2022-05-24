@@ -276,7 +276,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Current Percent: \n"
+  m_Text: Press S to START
 --- !u!222 &864388778
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -616,10 +616,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3156b3dfb598b2a4191bf08fb1399a7e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _slotContainer: {fileID: 1156584157}
-  _winSlot: {fileID: 4954741733690647238, guid: 1db2792ae95d2b34fbb17c30a4fc551f, type: 3}
-  _loseSlot: {fileID: 1720611030920830038, guid: 546844b5499df5f439fee3c77bab1cf2, type: 3}
-  _curPercentText: {fileID: 864388777}
+  slotContainer: {fileID: 1156584157}
+  winSlot: {fileID: 4954741733690647238, guid: 1db2792ae95d2b34fbb17c30a4fc551f, type: 3}
+  loseSlot: {fileID: 1720611030920830038, guid: 546844b5499df5f439fee3c77bab1cf2, type: 3}
+  curPercentText: {fileID: 864388777}
 --- !u!1 &1156584157
 GameObject:
   m_ObjectHideFlags: 0
