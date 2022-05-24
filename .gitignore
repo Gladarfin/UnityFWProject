@@ -18,6 +18,15 @@
 /CaveGenerator/[Ll]ogs/
 /CaveGenerator/[Uu]ser[Ss]ettings/
 
+/AdventureWheel/[Ll]ibrary/
+/AdventureWheel/[Tt]emp/
+/AdventureWheel/[Oo]bj/
+/AdventureWheel/[Bb]uild/
+/AdventureWheel/[Bb]uilds/
+/AdventureWheel/[Ll]ogs/
+/AdventureWheel/[Uu]ser[Ss]ettings/
+
+
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
 /[Mm]emoryCaptures/
